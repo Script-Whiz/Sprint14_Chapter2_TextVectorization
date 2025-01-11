@@ -5,3 +5,6 @@ Sentiment Analysis, using tokenization and lemmatization, to find if movie revie
 Used Logistic Regression. Scoring with Accuracy, Precision, and AUC-ROC.
 
 Used spaCy, TF-IDF.
+
+on GitHub:
+https://github.com/Script-Whiz/Sprint14_Chapter2_TextVectorization.git
