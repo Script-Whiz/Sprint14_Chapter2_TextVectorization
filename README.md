@@ -7,4 +7,4 @@ Used Logistic Regression. Scoring with Accuracy, Precision, and AUC-ROC.
 Used spaCy, TF-IDF.
 
 Project file:
-https://github.com/Script-Whiz/Sprint14_Chapter2_TextVectorization/blob/my-new-branch/notebooks/Sprint14_Chapter2_TextVectorization_ver4_final.ipynb
+https://github.com/Script-Whiz/Sprint14_Chapter2_TextVectorization/blob/main/notebooks/Sprint14_Chapter2_TextVectorization_ver4_final.ipynb
